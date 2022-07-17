@@ -1,1 +1,5 @@
 @charset "UFT-8";
+
+body{
+    background-image: linear-gradient(45deg, #ffe2e7, #ffff65 , #fab534, #f54b4b, #60f8f8, #4343f7 );
+}
